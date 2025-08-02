@@ -9,6 +9,7 @@ function App() {
   return (
     <>
     <h1>Welcome klu</h1>
+    <h2>This is the output of cicd-demo1 project</h2>
     </>
   )
 }
